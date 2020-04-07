@@ -1,0 +1,210 @@
+{
+  "code": 200,
+  "message": "成功!",
+  "result": [
+    {
+      "title": [
+        {
+          "title_id": "1",
+          "pic_big": "http://qukufile2.qianqian.com/data2/pic/b733a1a9fc0f63c7015be29b7b840b66/672866107/672866107.jpg@s_2,w_150,h_150",
+          "pic_small": "http://qukufile2.qianqian.com/data2/pic/b733a1a9fc0f63c7015be29b7b840b66/672866107/672866107.jpg@s_2,w_90,h_90",
+          "title": "最好的内饰让您心跳加速",
+          "description": "行业中国。\n"
+        }
+      ],
+      "about": [
+        {
+          "part": [
+            {
+              "part_id": "1",
+              "title": "这是第一标题",
+              "subtitle": "这就是设计-副标题",
+              "content": "这是生命的艺术",
+              "img": "https://s1.ax1x.com/2020/04/07/GgE0Lq.jpg",
+              "popTitle": "邦积",
+              "popImg": "https://s1.ax1x.com/2020/04/07/GgE0Lq.jpg",
+              "popContent": "离开家阿萨德快捷键卡索拉快乐；卡索拉；打开富兰克林；萨科的福利卡；历史；看的福利；喀什；累的快疯了；考试啊；看来分",
+              "isRead": true
+            },
+            {
+              "part_id": "2",
+              "title": "这是第二标题",
+              "subtitle": "Interior Design",
+              "content": "。什么都；美国；就是段落分明；就是代理费；收到了饭；郭老师的风格不见了你离开",
+              "img": "https://s1.ax1x.com/2020/04/07/GgOGt0.jpg",
+              "isRead": false
+            }
+          ],
+          "part2": [
+            {
+              "part2_id": "1",
+              "img": "https://s1.ax1x.com/2020/04/07/GgzDWq.jpg",
+              "isDifferentStyle": true
+            },
+            {
+              "part2_id": "2",
+              "img": "https://s1.ax1x.com/2020/04/07/GgzMod.jpg",
+              "isDifferentStyle": false
+            }
+          ]
+        }
+      ],
+      "testimonials": [
+        {
+          "question": [
+            {
+              "question_id": "1",
+              "questions": "为什么选我们",
+              "questionContent": "理由是什么呢",
+              "popTitle": "邦积",
+              "popImg": "http://hiphotos.qianqian.com/ting/pic/item/c83d70cf3bc79f3d98ca8e36b8a1cd11728b2988.jpg",
+              "popContent": "弹窗内容"
+            }
+          ],
+          "answer": [
+            {
+              "answer_id": "1",
+              "headImg": "http://ww1.sinaimg.cn/large/0065oQSqly1fsfq1ykabxj30k00pracv.jpg",
+              "nickname": "jackma",
+              "answerLabel": "感言",
+              "answerContent": "Lorem Ipsum只是印刷和排版行业的伪文本。\n"
+            },
+            {
+              "answer_id": "2",
+              "headImg": "http://ww1.sinaimg.cn/large/0065oQSqly1fsmis4zbe7j30sg16fq9o.jpg",
+              "nickname": "shen",
+              "answerLabel": "感言",
+              "answerContent": "Lorem Ipsum只是印刷和排版行业的伪文本。\n"
+            },
+            {
+              "answer_id": "3",
+              "headImg": "http://ww1.sinaimg.cn/large/0065oQSqly1fsfq1k9cb5j30sg0y7q61.jpg",
+              "nickname": "gof",
+              "answerLabel": "感言",
+              "answerContent": "Lorem Ipsum只是印刷和排版行业的伪文本。\n"
+            }
+          ]
+        }
+      ],
+      "gallery": [
+        {
+          "gallery_id": "1",
+          "picBig": "https://s1.ax1x.com/2020/04/07/Ggz2mF.jpg",
+          "picSmall": "https://s1.ax1x.com/2020/04/07/Ggz2mF.jpg",
+          "galleryTitle": "放大"
+        },
+        {
+          "gallery_id": "2",
+          "picBig": "https://s1.ax1x.com/2020/04/07/GgzawQ.jpg",
+          "picSmall": "https://s1.ax1x.com/2020/04/07/GgzawQ.jpg",
+          "galleryTitle": "放大"
+        },
+        {
+          "gallery_id": "3",
+          "picBig": "https://s1.ax1x.com/2020/04/07/GgzUeg.jpg",
+          "picSmall": "https://s1.ax1x.com/2020/04/07/GgzUeg.jpg",
+          "galleryTitle": "放大"
+        },
+        {
+          "gallery_id": "4",
+          "picBig": "https://s1.ax1x.com/2020/04/07/Ggz1JI.jpg",
+          "picSmall": "https://s1.ax1x.com/2020/04/07/Ggz1JI.jpg",
+          "galleryTitle": "放大"
+        },
+        {
+          "gallery_id": "5",
+          "picBig": "https://s1.ax1x.com/2020/04/07/GgzawQ.jpg",
+          "picSmall": "https://s1.ax1x.com/2020/04/07/GgzawQ.jpg",
+          "galleryTitle": "放大"
+        },
+        {
+          "gallery_id": "6",
+          "picBig": "https://s1.ax1x.com/2020/04/07/GgzMod.jpg",
+          "picSmall": "https://s1.ax1x.com/2020/04/07/GgzMod.jpg",
+          "galleryTitle": "放大"
+        },
+        {
+          "gallery_id": "7",
+          "picBig": "https://s1.ax1x.com/2020/04/07/GgzawQ.jpg",
+          "picSmall": "https://s1.ax1x.com/2020/04/07/GgzawQ.jpg",
+          "galleryTitle": "放大"
+        },
+        {
+          "gallery_id": "8",
+          "picBig": "https://s1.ax1x.com/2020/04/07/Ggz1JI.jpg",
+          "picSmall": "https://s1.ax1x.com/2020/04/07/Ggz1JI.jpg",
+          "galleryTitle": "放大"
+        }
+      ],
+      "team": [
+        {
+          "team_id": "1",
+          "description": "人们进行",
+          "teamImg": "https://s1.ax1x.com/2020/04/07/GgXrrQ.jpg"
+        },
+        {
+          "team_id": "2",
+          "description": "设计的技巧",
+          "teamImg": "https://s1.ax1x.com/2020/04/07/GgjSqH.jpg"
+        },
+        {
+          "team_id": "3",
+          "description": "内设计的技巧",
+          "teamImg": "https://s1.ax1x.com/2020/04/07/Ggz6yT.jpg"
+        },
+        {
+          "team_id": "4",
+          "description": "内设计的技巧",
+          "teamImg": "https://s1.ax1x.com/2020/04/07/GgXrrQ.jpg"
+        }
+      ],
+      "blog": [
+        {
+          "blog_id": "1",
+          "blogTitle": "这是一",
+          "description": "好啦就流口水的交流空间阿莱克斯家阿拉山口就到了卡就收到了克己复礼卡上的纠纷记得上了飞机阿斯科利的",
+          "blogImg": "https://s1.ax1x.com/2020/04/07/GgzDWq.jpg",
+          "time_line": "2018-10-11",
+          "isOrientation": true,
+          "popTitle": "邦积",
+          "popImg": "https://s1.ax1x.com/2020/04/07/GgzDWq.jpg",
+          "popContent": "弹窗内容1"
+        },
+        {
+          "blog_id": "2",
+          "blogTitle": "这事儿",
+          "description": "路径和那两款手机的福利卡家lakes卡利久里卡家里卡是几点离开家里卡升级 快乐就撒开了多久卡利久里卡",
+          "blogImg": "https://s1.ax1x.com/2020/04/07/GgOGt0.jpg",
+          "time_line": "2018-10-11",
+          "isOrientation": false,
+          "popTitle": "邦积",
+          "popImg": "https://s1.ax1x.com/2020/04/07/GgOGt0.jpg",
+          "popContent": "弹窗内容2"
+        },
+        {
+          "blog_id": "3",
+          "blogTitle": "这是三",
+          "description": "离开家里卡上的健康疗法卡拉斯京喀拉峻离开家喀拉峻收到了克己复礼卡家阿拉山口家离开",
+          "blogImg": "https://s1.ax1x.com/2020/04/07/GgzEz6.jpg",
+          "time_line": "2018-10-11",
+          "isOrientation": true,
+          "popTitle": "邦积",
+          "popImg": "https://s1.ax1x.com/2020/04/07/GgzEz6.jpg",
+          "popContent": "弹窗内容3"
+        }
+      ],
+      "contact": [
+        {
+          "contact_id": "1",
+          "nickname": "邦积",
+          "head_img": "http://hiphotos.qianqian.com/ting/pic/item/c83d70cf3bc79f3d98ca8e36b8a1cd11728b2988.jpg",
+          "phone": "111111111",
+          "tel": "0514-12313133",
+          "email": "xxx@163.com",
+          "weixin_qr": "http://hiphotos.qianqian.com/ting/pic/item/c83d70cf3bc79f3d98ca8e36b8a1cd11728b2988.jpg",
+          "qq_qr": "http://hiphotos.qianqian.com/ting/pic/item/c83d70cf3bc79f3d98ca8e36b8a1cd11728b2988.jpg"
+        }
+      ]
+    }
+  ]
+}
